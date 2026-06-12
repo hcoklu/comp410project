@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2001: çözümlenmemiş dış sembol __imp_glClear
+main.obj : error LNK2001: çözümlenmemiş dış sembol __imp_glPolygonMode
+main.obj : error LNK2001: çözümlenmemiş dış sembol __imp_glEnable
+main.obj : error LNK2001: çözümlenmemiş dış sembol __imp_glClearColor
+main.obj : error LNK2001: çözümlenmemiş dış sembol __imp_glDrawElements
+C:\Users\hacer\OneDrive - Koc Universitesi\My Computer\Masaüstü\COMP410\x64\Release\COMP410.exe : fatal error LNK1120: 5 çözümlenmemiş dışlar

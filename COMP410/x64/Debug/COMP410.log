@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\umuta\Desktop\COMP410\main.cpp(810,25): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  COMP410.vcxproj -> C:\Users\umuta\Desktop\COMP410\x64\Debug\COMP410.exe
